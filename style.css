@@ -22,7 +22,7 @@ a
     position: absolute;
     width: 648px;
     height: 231px;
-    
+
 }
 /*PARTIE SECTION 1*/
 
@@ -48,7 +48,7 @@ a
 }
 #article2
 {
-  margin-top: 20px;
+  margin-top: 100px;
   margin-left: 20px;
   box-sizing: border-box;
   width: 300px;
@@ -122,3 +122,4 @@ header h1
   text-decoration: none;
   color: white;
 }
+
